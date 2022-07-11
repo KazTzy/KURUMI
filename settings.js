@@ -1,6 +1,6 @@
 //════════════════════════════//
-//Recode By ArullOfc 
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//Recode By ムハンマド・アルフィン ・神の導き
+//© 2022 Xeon Bot Inc. 時崎 狂三
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 
@@ -37,23 +37,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc" //ur owner name
-global.ytname = "YT: ARULL OFC" //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
+global.vcardowner = ['6289699565795'] //ur owner number
+global.ownername = "アルフィン" //ur owner name
+global.ytname = "アルフィン" //ur yt chanel name
+global.socialm = "GitHub: AlfinQwe" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bomdy 
-global.owner = ['6285822347348']
-global.ownertag = '6285822347348' //ur tag number
-global.botname = 'ArullBotzMD' //ur bot name
-global.linkz = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5" //ur website to be displayed
-global.botscript = 'https://youtu.be/k3QkeVdAMOs' //script link
-global.reactmoji = "🗿" //ur menu react emoji
-global.themeemoji = "😩" //ur theme emoji
+global.owner = ['6289699565795']
+global.ownertag = '6289699565795' //ur tag number
+global.botname = '時崎 狂三' //ur bot name
+global.linkz = "https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg" //ur website to be displayed
+global.botscript = 'https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg' //script link
+global.reactmoji = "🥵" //ur menu react emoji
+global.themeemoji = "🥵" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
-global.author = "ArullOfc" //ur sticker watermark author
+global.author = "ムハンマド・アルフィン ・神の導き" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
