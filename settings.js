@@ -20,8 +20,8 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = false //autoketik otomatis di gc (true buat on, false buat off)
-global.autoreadpmngc = true //pembacaan otomatis di pc (true to buat on, false buat off)
-global.autoReadGc = true //pembacaan otomatis di gc (true to on, false to off)
+global.autoreadpmngc = false //pembacaan otomatis di pc (true to buat on, false buat off)
+global.autoReadGc = false //pembacaan otomatis di gc (true to on, false to off)
 global.autoRecord = true //perekaman otomatis (true to on, false to off)
 global.available = true //tanda online (true to on, false to off)
 
@@ -37,23 +37,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6289699565795'] //ur owner number
-global.ownername = "アルフィン" //ur owner name
-global.ytname = "アルフィン" //ur yt chanel name
+global.vcardowner = ['6285878258447'] //ur owner number
+global.ownername = "Vinventtt¿" //ur owner name
+global.ytname = "VinnXD" //ur yt chanel name
 global.socialm = "GitHub: AlfinQwe" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.location = "Indonesia, Jawa Timur, Klaten" //ur location
 
 //bot bomdy 
-global.owner = ['6289699565795']
-global.ownertag = '6289699565795' //ur tag number
-global.botname = '時崎 狂三' //ur bot name
+global.owner = ['6285878258447']
+global.ownertag = '6285878258447' //ur tag number
+global.botname = 'VinnXD-MD' //ur bot name
 global.linkz = "https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCI3oeINgi5l4hmbe1vgr5Pg" //ur website to be displayed
 global.botscript = 'https://github.com/AlfinQwe/KURUMI.git' //script link
 global.reactmoji = "🥵" //ur menu react emoji
 global.themeemoji = "🥵" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
-global.author = "ムハンマド・アルフィン ・神の導き" //ur sticker watermark author
+global.author = "VinnXD-MD" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -62,7 +62,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6289699565795'] //ur premium numbers
+global.premium = ['6285878258447'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
