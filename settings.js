@@ -20,8 +20,8 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = false //autoketik otomatis di gc (true buat on, false buat off)
-global.autoreadpmngc = false //pembacaan otomatis di pc (true to buat on, false buat off)
-global.autoReadGc = false //pembacaan otomatis di gc (true to on, false to off)
+global.autoreadpmngc = true //pembacaan otomatis di pc (true to buat on, false buat off)
+global.autoReadGc = true //pembacaan otomatis di gc (true to on, false to off)
 global.autoRecord = true //perekaman otomatis (true to on, false to off)
 global.available = true //tanda online (true to on, false to off)
 
@@ -116,7 +116,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/theme/IMG-20220910-WA0302.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
