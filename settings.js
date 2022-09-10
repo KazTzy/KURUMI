@@ -56,10 +56,10 @@ global.packname = "Sticker by" //ur sticker watermark packname
 global.author = "VinnXD-MD" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/IMG-20220909-WA0294.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/IMG-20220909-WA0294.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/IMG-20220909-WA0294.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/IMG-20220909-WA0294.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/IMG-20220910-WA0302.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/IMG-20220910-WA0302.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/IMG-20220910-WA0302.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/IMG-20220910-WA0302.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['6285878258447'] //ur premium numbers
